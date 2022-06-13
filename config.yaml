@@ -1,4 +1,4 @@
-baseURL: https://ikhal3d.github.io/packettalk.net.github.io/
+baseURL: https://github.com/ikhal3d/packettalk.net.github.io
 
 languageCode: en-us
 title: "Khaled Alghazi"
@@ -17,11 +17,37 @@ markup:
     endLevel: 6
     ordered: false
 
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
+# Enable Google Analytics
+# googleAnalytics: UA-122321624-2
+
+# Enable Disqus forum
+disqusShortname: hossainemruz-github-io
+
 # Enable global emoji support
 enableEmoji: true
 
+
 # Site parameters
 params:
+  # Background image of the landing page
+  background: /images/default-background.jpg
+
+  # Provide logos for your site. The inverted logo will be used in the initial
+  # transparent navbar and the main logo will be used in the non-transparent navbar.
+  # It will default to the theme logos if not provided.
+  # logo:
+  #   main: /images/site/main-logo.png
+  #   inverted: /images/site/inverted-logo.png
+  #   favicon: /images/site/favicon.png
+
   # GitHub repo URL of your site
   gitRepo: https://github.com/ikhal3d/packettalk.net.github.io
 
@@ -34,8 +60,8 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: false
+    enable: true
 
   # Configurations for notes
-  notes:
-    headerBackground: aliceblue
+  # notes:
+  #   headerBackground: aliceblue
