@@ -1,12 +1,10 @@
-#baseURL: https://packettalk.net
-baseURL: 
+baseURL: https://github.com/ikhal3d/packettalk.net.github.io
 
 languageCode: en-us
-title: "Khaled's Blog"
+title: "Khaled Alghazi"
 theme: "toha"
 
 # Manage languages
-# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
   en:
     languageName: English
@@ -25,7 +23,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/ikhal3d/packettalk.net.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
@@ -37,3 +35,7 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: true
+
+  # Configurations for notes
+  notes:
+    headerBackground: aliceblue
