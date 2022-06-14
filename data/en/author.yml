@@ -3,7 +3,7 @@ name: "Khaled Alghazi"
 nickname: "Khaled"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hey, I am"
-image: "images/author/khaled_image_02.jpeg"
+image: "images/author/khaled_image_02.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "kalghazi@gmail.com"
