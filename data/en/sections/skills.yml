@@ -42,14 +42,22 @@ skills:
   summary: "Writing Bash scripting to generate template-based configuration for different network devices."
   url: "https://developer.cisco.com/docs/pyats/"
 
+- name: Git
+  logo: "/images/sections/skills/github_icon_01.png"
+  summary: "Managing and keeping track of source code history using github or Atlassian bitbucket"
+  url: "https://git-scm.com/"
 
+- name: Virtualisation
+  logo: "/images/sections/skills/vmware_icon_01.png"
+  summary: "Managing virtual machines (router, switches, operating systems) using VMWare ESXi and VmWare WorkStation"
+  url: "https://www.vmware.com/"
 
-# Git
-# ixia
+- name: Ixia
+  logo: "/images/sections/skills/ixia_icon_01.png"
+  summary: "Performing type approval and regression testing on network devices and analyse their limits."
+  url: "https://www.keysight.com/us/en/cmp/2020/network-visibility-network-test.html"
 
-# vmware
-# windows
-# xena
-# Cisco
-# Juniper
-# Nokia
+- name: Xena
+  logo: "/images/sections/skills/xena_icon_01.png"
+  summary: "Performing type approval and regression testing on network devices and analyse their limits."
+  url: "https://www.keysight.com/us/en/cmp/2020/network-visibility-network-test.html"
