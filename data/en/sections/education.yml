@@ -1,0 +1,47 @@
+
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Sc. in Communication Engineering
+  icon: fa-graduation-cap
+  timeframe: 2005-2008
+  institution:
+    name: RMIT University
+    url: "#"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.9
+    outOf: 4
+- name: Diploma of Computer Systems Engineering
+  icon: fa-graduation-cap #fa-university
+  timeframe: 2002-2004
+  institution:
+    name: Melbourne Polytechnic
+    url: "https://www.melbournepolytechnic.edu.au/"
+
+
+  # takenCourses: #(optional)
+  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #   showGrades: true
+  #   courses:
+  #   - name: Data Structures and Algorithm
+  #     achieved: 3.75
+  #     outOf: 4
+  #   - name: Network Security
+  #     achieved: 3.80
+  #     outOf: 4
+  #   - name: Operating System
+  #     achieved: 3.5
+  #     outOf: 4
+  #   - name: Artificial Intelligent
+  #     achieved: 3.75
+  #     outOf: 4
