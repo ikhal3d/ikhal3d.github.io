@@ -29,19 +29,9 @@ degrees:
     url: "https://www.melbournepolytechnic.edu.au/"
 
 
-  # takenCourses: #(optional)
-  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-  #   showGrades: true
-  #   courses:
-  #   - name: Data Structures and Algorithm
-  #     achieved: 3.75
-  #     outOf: 4
-  #   - name: Network Security
-  #     achieved: 3.80
-  #     outOf: 4
-  #   - name: Operating System
-  #     achieved: 3.5
-  #     outOf: 4
-  #   - name: Artificial Intelligent
-  #     achieved: 3.75
-  #     outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: "Fortinet Network Security Expert Level 4:  Certified Professional"
+      timeframe: 2005-2008
