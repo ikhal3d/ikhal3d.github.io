@@ -11,29 +11,13 @@ section:
   # hideTitle: true
 
 degrees:
-- name: "Fortinet Network Security Expert Level 4:  Certified Professional"
-  icon: fa-certificate
-  timeframe: Oct 2020
-  institution:
-    name: Fortinet
-    url: "#"
-
-- name: "Fortinet Network Security Associate Level 2"
-  icon: fa-certificate
-  timeframe: Aug 2020
-  url: "https://www.credly.com/earner/earned/badge/b6ecda33-d7eb-4301-ba81-ea9fdd50177f"
-  badge: "https://images.credly.com/size/340x340/images/30463055-4db0-4724-a23a-e4e8569f518f/L_02_specl_JNCIS-ENT.png"
-  institution:
-    name: Fortinet
-    url: "#"
-
 - name: B.Sc. in Communication Engineering
   icon: fa-graduation-cap
   timeframe: 2005-2008
   institution:
     name: RMIT University
-    url: "#"
-  grade: #(optional)
+    url: "https://www.rmit.edu.au/"
+  grade:
     scale: GPA
     achieved: 3.9
     outOf: 4
