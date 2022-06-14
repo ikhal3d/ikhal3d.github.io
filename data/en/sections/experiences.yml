@@ -6,37 +6,125 @@ section:
   weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: OptiComm Pty Ltd
+    url: "https://www.opticomm.com.au/"
+    location: Port Melbourne VIC 3207 Australia
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: A FTTH company with a variety of technologies to deliver optimum services to customers.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Senior Network Engineer
+    start: Mar 2019
+    end: Dec 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Migrating OptiComm IT infrastructure into a VM-based environment.
+    - Designing customer-tailored network solution using OptiComm existing infrastructure such as Smart Cities (a CCTV-based product) and Smart Homes (security-based product).
+    - Deployment of a state-of-the-art Juniper MX480 as OptiComm new core network platform.
+    - Deployment of Juniper MX204 as OptiComm new aggregation platform.
+    - Migration of OptiComm old Brocade MLX and CES/CER platform into the new Juniper MX480 and MX204 platforms respectively.
+    - Commissioning of Victoria’s exchanges at new estates and multi-dwelling units.
+    - Commissioned Victoria's largest datacentre POI at NextDC.
+    - Level 3 Support to the Network Operation Centre.
+    - Designing and deploying Integrated Communication Networks for OptiComm largest customers.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Optus Business Unit
+    url: "https://www.optus.com.au/"
+    location: Melbourne VIC 3000 Australia
+    # company overview
+    overview: One of the largest telcos in Australia, Optus business unit is the core component of the Optus network. Its role is to integrate the networks of Uecomm and Optus and make sure a seamless flow of traffic betweent the two networks.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Senior Network Specialist
+    start: Sep 2018
+    end: MAr 2019
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Validation and testing of Optus’s new Software Defined Network Services (SDNS) equipment.
+    - Verifying MPLS LDP, Segment Routing (SR) and BGP-LU connectivity and reliability (using a combination of Fast Reroute and ECMP).
+    - Leading the design and deployment phases of the Ciena 3916 and 3930 1GE/10GE NTU project.
+
+- company:
+    name: Vocus
+    url: "https://www.vocus.com.au/"
+    location: Melbourne VIC 3000 Australia
+    # company overview
+    overview: One of the largest fibre and network solution provider in Australia.
+  positions:
+  - designation: IP Network Engineer
+    start: Sep 2013
+    end: Sep 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - ADVA 1GE and 10GE NTU type approval testing, design and deployment.
+    - Lead the proof of concept phase of Vocus’s new network termination unit (NTU).
+    - Lead the tender process to select Vocus’s future NTU.
+    - Adtran XGS-PON type approval testing, validation and design specifications.
+    - Dasan 10G PON type approval testing and validation.
+    - NBN access (FTTN/B/P/C) DSCP marking and TC1/TC2/TC4 profile testing.
+    - Nokia 7210 SAS-Mxp network design and deployment
+    - 3rd party access circuit test plans & design specifications (Optus, Telstra, TATA, TasNetworks, iSeek, EntrustICT, Equinix Cloud Exchange (Azure product deployment) and Amazon Web Services design specifications
+    - Nokia 7750 SR and 7450 ESS CPM IP filter policy maintenance
+    - Nokia 7210 SAS-T as MPLS NE (network design and deployment)
+    - Nokia 7210 SAS-T/SAS-D as Demarcation (network design and deployment)
+    - Nextgen-Google 10G BGP policies verification and application
+    - IPv4, IPv6 addresses and private ASNs management and allocation
+    - Hardware & software auditing and upgrades across all service routers & switches
+    - Juniper J2350 router deployment into the Data Communication Network (DCN)
+
+- company:
+    name: Nextgen Group (part of Vocus)
+    url: "https://www.vocus.com.au/"
+    location: Melbourne VIC 3000 Australia
+    # company overview
+    overview: One of the largest fibre and network solution provider in Australia.
+  positions:
+  - designation: Level 2 Support Engineer
+    start: May 2011
+    end: Sep 2013
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Participated in Operational Readiness Tests (ORT) for multi-million dollar projects (RBBP and Ochre).
+    - Developed a lot of networking protocol knowledge and troubleshooting skills (TCP/IP, L2 and L3 VPNs, Ethernet 802.3, Switching, 802.1Q, QinQ tunnelling, BGP, OSPF, EIGRP, RIP)
+    - Improved my Fibre/DWDM/SDH troubleshooting and design skills for all EoSDH, SDH, 10G fibre channel and Dark Fibre services.
+    - Successfully integrated and configured Telco and Cisco of access and aggregation switches.
+    - Provisioned corporate grade Internet services, Virtual Leased Lines (VLL) and Virtual Private LAN Services (VPLS) services.
+    - Provisioning and troubleshooting services on Nextgen’s Gigabit PON (GPON).
+    - Troubleshooting and monitoring Juniper routers used in the DCN network.
+    - Successfully worked as a change engineer liaising with field operation managers, field technicians, third party supply partners.
+
+- company:
+    name: Future Fibre Technologies Pty. Ltd
+    url: "https://www.fftsecurity.com/"
+    location: Mulgrave VIC 3170 Australia
+    # company overview
+    overview: Future Fibre Technologies (FFT) manufactures a complete portfolio of fibre optic intrusion detection and location products for a wide range of applications including Perimeter intrusion detection (fence mounted and covert buried), Data network tapping and tampering detection, Oil and gas pipeline third party interference (TPI), and Other applications including health and safety and traffic monitoring
+  positions:
+  - designation: Fibre Systems Engineer
+    start: May 2011
+    end: Sep 2013
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Successfully characterised and tested the performance of DWDMs/CWDMs with FFT’s locator systems (insertion and reflection losses, SNR variation, directivity, isolation/crosstalk, as well as long-term testing. Investigation also included polarisation, fringe visibility, and path length mismatch (PLM) effects of these multiplexers on FFT locator systems).
+    - Successfully lead and completed the GIU project. Path length mismatch (PLM) variation, sensor and leading cable length tests, as well as sensor fence configuration tests were carried out throughout the life of the project.
+    - Troubleshooting of fibre optic systems.
+    - Trained and supported our local and US-based technical engineering teams.
+    - Designed test plans and test procedures.
+    - Prepared weekly reports for all the tasks carried out, including design and R&D issues.
+    - Documented R&D internal reports and logbooks, user manuals, test plans and test procedures.
+    - Gained hand-on experience using fibre optic equipment including fusion splicer, microscope, fibre optic connectors, power metres, OTDRs, OSAs, and CROs.
+

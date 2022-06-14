@@ -35,6 +35,9 @@ socialLinks:
 - name: Youtube
   icon: "fab fa-youtube"
   url: "https://www.youtube.com/channel/UCVn5APQAgee7st8M9L9Y-zg"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/packettalk"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -58,7 +61,7 @@ softSkills:
 
 badges:
 - type: certification
-  name: 3x JNCIA Badge 
+  name: 3x JNCIA Badge
   url: "https://www.credly.com/earner/earned/badge/24073e9a-8ace-4c59-af29-854b1b110f4c"
   badge: "https://images.credly.com/size/340x340/images/d9f1f414-d4a5-4ef9-96f8-26e3ada93583/M_01_asso_3A.png"
 - type: certification
@@ -66,7 +69,7 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/b6ecda33-d7eb-4301-ba81-ea9fdd50177f"
   badge: "https://images.credly.com/size/340x340/images/30463055-4db0-4724-a23a-e4e8569f518f/L_02_specl_JNCIS-ENT.png"
 - type: certification
-  name: JNCIS-SP 
+  name: JNCIS-SP
   url: "https://www.credly.com/earner/earned/badge/b1e4fb1d-f793-4d95-af1c-6d0b39cade5a"
   badge: "https://images.credly.com/size/340x340/images/d1abdf09-8a5b-4caf-8d2c-ea9538f26fdd/L_02_specl_JNCIS-SP.png"
 - type: certification
@@ -82,6 +85,6 @@ badges:
   url: "https://www.credly.com/earner/earned/badge/4fa2f4f0-56e5-4b92-8371-f2fe230408ee"
   badge: "https://images.credly.com/size/340x340/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png"
 - type: certification
-  name: 3x JNCIA Badge 
+  name: 3x JNCIA Badge
   url: "https://www.credly.com/earner/earned/badge/24073e9a-8ace-4c59-af29-854b1b110f4c"
   badge: "https://images.credly.com/size/340x340/images/d9f1f414-d4a5-4ef9-96f8-26e3ada93583/M_01_asso_3A.png"
