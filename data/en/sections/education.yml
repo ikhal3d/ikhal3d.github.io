@@ -21,6 +21,8 @@ degrees:
 - name: "Fortinet Network Security Associate Level 2"
   icon: fa-certificate
   timeframe: Aug 2020
+  url: "https://www.credly.com/earner/earned/badge/b6ecda33-d7eb-4301-ba81-ea9fdd50177f"
+  badge: "https://images.credly.com/size/340x340/images/30463055-4db0-4724-a23a-e4e8569f518f/L_02_specl_JNCIS-ENT.png"
   institution:
     name: Fortinet
     url: "#"
