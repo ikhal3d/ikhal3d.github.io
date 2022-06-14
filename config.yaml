@@ -2,6 +2,8 @@ baseURL: https://ikhal3d.github.io
 
 languageCode: en-us
 title: "Khaled Alghazi"
+job: "Network Engineer"
+location: "Australia"
 theme: "toha"
 
 # Manage languages

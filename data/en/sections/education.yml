@@ -11,6 +11,20 @@ section:
   # hideTitle: true
 
 degrees:
+- name: "Fortinet Network Security Expert Level 4:  Certified Professional"
+  icon: fa-certificate
+  timeframe: Oct 2020
+  institution:
+    name: Fortinet
+    url: "#"
+
+- name: "Fortinet Network Security Associate Level 2"
+  icon: fa-certificate
+  timeframe: Aug 2020
+  institution:
+    name: Fortinet
+    url: "#"
+
 - name: B.Sc. in Communication Engineering
   icon: fa-graduation-cap
   timeframe: 2005-2008
@@ -21,17 +35,10 @@ degrees:
     scale: GPA
     achieved: 3.9
     outOf: 4
+
 - name: Diploma of Computer Systems Engineering
   icon: fa-graduation-cap #fa-university
   timeframe: 2002-2004
   institution:
     name: Melbourne Polytechnic
     url: "https://www.melbournepolytechnic.edu.au/"
-
-
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: false
-    courses:
-    - name: "Fortinet Network Security Expert Level 4:  Certified Professional"
-      timeframe: Aug 2021
