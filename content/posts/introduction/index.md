@@ -1,18 +1,16 @@
 ---
 title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
-menu:
-  sidebar:
-    name: Introduction
-    identifier: introduction
-    weight: 10
-tags: ["Basic", "Multi-lingual"]
+date: 2022-06-08
+description: This is the first post...
+# menu:
+#   sidebar:
+#     name: Introduction
+#     identifier: introduction
+#     weight: 10
+tags: ["first", "post"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+Hey! This is an introduction post.
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+Hoping that I will have this space occupied on weekly bases, so stay tuned :)
