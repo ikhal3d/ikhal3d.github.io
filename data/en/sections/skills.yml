@@ -11,12 +11,18 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Linux
-  #logo: "/images/sections/skills/linux.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+
+- name: Ansible
+  logo: "/images/sections/skills/ansible_icon_01.png"
+  summary: "Automating the process of applying different configuration using Ansible roles and playbooks. Automating system configuration including TFTP, FTP, SCP and DHCP on Linux/Redhat and network devices including Cisco IOS, Cisco IOS-XE, Cisco Nexus, and Juniper Junos."
+  url: "https://www.redhat.com/en"
+
+- name: Linux/Redhat
+  logo: "/images/sections/skills/redhat_icon_01.png"
+  summary: "Capable of deploying and managing application on Linux/Redhat"
+  url: "https://www.redhat.com/en"
 
 
-- name: Cloud Computing
-  #logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Python Scripting
+  logo: "/images/sections/skills/python_icon_01.png"
+  summary: "Automating connecting to network devices including Cisco IOS, Cisco IOS-XE, Cisco Nexus, and Juniper Junos using Netmiko to backup configuration, making changes to configuration and many other tasks."
