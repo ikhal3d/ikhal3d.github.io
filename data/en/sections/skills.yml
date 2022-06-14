@@ -24,7 +24,7 @@ skills:
 
 - name: Linux/Redhat
   logo: "/images/sections/skills/redhat_icon_01.png"
-  summary: "Installing, configuring and managing different application on Linux/Redhat such as TFTP, FTP and DHCP servers as well as different tools such pfsense, nmap, iperf, tcpdump, rpm packaging, etc. "
+  summary: "Managing different application on Linux/Redhat such as TFTP, FTP and DHCP servers as well as different tools such pfsense, nmap, iperf, tcpdump, rpm packaging, etc. "
   url: "https://www.redhat.com/en"
 
 - name: Python
@@ -33,7 +33,7 @@ skills:
   url: "https://www.python.org/"
 
 - name: pyATS
-  logo: "/images/sections/skills/pyats_icon_01.png"
+  logo: "/images/sections/skills/python_icon_01.png"
   summary: "Using pyATS to connect to network devices such as Cisco IOS, Cisco IOS-XE, Cisco Nexus, and Juniper Junos and test the status of the network."
   url: "https://developer.cisco.com/docs/pyats/"
 
@@ -42,10 +42,10 @@ skills:
   summary: "Writing Bash scripting to generate template-based configuration for different network devices."
   url: "https://developer.cisco.com/docs/pyats/"
 
-- name: Git
-  logo: "/images/sections/skills/github_icon_01.png"
-  summary: "Managing and keeping track of source code history using github or Atlassian bitbucket"
-  url: "https://git-scm.com/"
+# - name: Git
+#   logo: "/images/sections/skills/github_icon_01.png"
+#   summary: "Managing and keeping track of source code history using github or Atlassian bitbucket"
+#   url: "https://git-scm.com/"
 
 - name: Virtualisation
   logo: "/images/sections/skills/vmware_icon_01.png"

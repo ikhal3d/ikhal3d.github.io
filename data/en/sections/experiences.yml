@@ -11,6 +11,24 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Thales Group
+    url: "https://www.thalesgroup.com/en"
+    location: Docklands VIC 3008 Australia
+    # company overview
+    overview: Designs and builds electrical systems and provides services for the aerospace, defence, transportation and security markets.
+  positions:
+  - designation: Senior Network Engineer
+    start: Dec 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Leading the network engineering automation team to achieve a seamless network deployment.
+    - Using Netbox, Ansible, Python and PyATS to deploy a network from zero to completely operational.
+    - Using Ansible and Redhat/Linux to achieve bootstrapping/zero touch provisioning (ZTP) for network devices.
+    - Deploying and managing iTrinegy NE-ONE network emulator.
+
+- company:
     name: OptiComm Pty Ltd
     url: "https://www.opticomm.com.au/"
     location: Port Melbourne VIC 3207 Australia
