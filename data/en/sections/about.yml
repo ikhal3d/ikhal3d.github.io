@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Network Engineer
+designation: Blogger
 # your company information
 company:
   name: packettalk.net
@@ -23,9 +23,9 @@ summary: "I am a passionate network engineer with a bachelor degree in engineeri
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Github
-  icon: "fab fa-github"
-  url: "https://github.com/ikhal3d/dev"
+#- name: Github
+#  icon: "fab fa-github"
+#  url: "https://github.com/ikhal3d/dev"
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/kalghazi"
@@ -34,7 +34,7 @@ socialLinks:
   url: "https://www.facebook.com/ikh4l3d/"
 - name: Youtube
   icon: "fab fa-youtube"
-  url: "https://www.youtube.com/channel/UCVn5APQAgee7st8M9L9Y-zg"
+  url: "https://www.youtube.com/c/PacketTalk"
 - name: Twitter
   icon: "fab fa-twitter"
   url: "https://twitter.com/packettalk"
