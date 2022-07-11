@@ -1,4 +1,4 @@
-baseURL: https://ikhal3d.github.io
+baseURL: https://packettalk.net
 
 languageCode: en-us
 title: "Khaled Alghazi"
@@ -51,8 +51,8 @@ params:
   #   favicon: /images/site/favicon.png
 
   # GitHub repo URL of your site
-  gitRepo: https://github.com/ikhal3d/packettalk.net.github.io
-
+  gitRepo: https://github.com/ikhal3d/ikhal3d.github.io
+  
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
 
