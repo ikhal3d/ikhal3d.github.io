@@ -3,10 +3,10 @@ name: "Khaled Alghazi"
 nickname: "Khaled"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hey, I am"
-image: "images/author/khaled_image_02.jpg"
+image: "images/author/khaled_image_01.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "kalghazi@gmail.com"
+  email: "info@packettalk.net"
   #phone: "+614 333 92 777"
 
 # some summary about what you do
